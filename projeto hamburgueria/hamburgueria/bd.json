@@ -1,0 +1,12 @@
+{
+"Cardapios": [
+    {
+        "nome":"hamburguer1",
+        "id":1
+    },
+    {
+        "nome":"hamburguer2",
+        "id":2
+    }
+]
+}
